@@ -1,0 +1,335 @@
+# Title: StevenBlack/hosts with the fakenews extension
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 24 September 2021 22:59:55 (UTC)
+# Extensions added to this file: fakenews
+# Number of unique domains: 96,303
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
+
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.ae youtube.ae
+127.0.0.1 www.youtube.at youtube.at
+127.0.0.1 www.youtube.az youtube.az
+127.0.0.1 www.youtube.ba youtube.ba
+127.0.0.1 www.youtube.be youtube.be
+127.0.0.1 www.youtube.bg youtube.bg
+127.0.0.1 www.youtube.bh youtube.bh
+127.0.0.1 www.youtube.bo youtube.bo
+127.0.0.1 www.youtube.by youtube.by
+127.0.0.1 www.youtube.ca youtube.ca
+127.0.0.1 www.youtube.cat youtube.cat
+127.0.0.1 www.youtube.ch youtube.ch
+127.0.0.1 www.youtube.cl youtube.cl
+127.0.0.1 www.youtube.co youtube.co
+127.0.0.1 www.youtube.co.ae youtube.co.ae
+127.0.0.1 www.youtube.co.at youtube.co.at
+127.0.0.1 www.youtube.co.cr youtube.co.cr
+127.0.0.1 www.youtube.co.hu youtube.co.hu
+127.0.0.1 www.youtube.co.id youtube.co.id
+127.0.0.1 www.youtube.co.il youtube.co.il
+127.0.0.1 www.youtube.co.in youtube.co.in
+127.0.0.1 www.youtube.co.jp youtube.co.jp
+127.0.0.1 www.youtube.co.ke youtube.co.ke
+127.0.0.1 www.youtube.co.kr youtube.co.kr
+127.0.0.1 www.youtube.co.ma youtube.co.ma
+127.0.0.1 www.youtube.co.nz youtube.co.nz
+127.0.0.1 www.youtube.co.th youtube.co.th
+127.0.0.1 www.youtube.co.tz youtube.co.tz
+127.0.0.1 www.youtube.co.ug youtube.co.ug
+127.0.0.1 www.youtube.co.uk youtube.co.uk
+127.0.0.1 www.youtube.co.ve youtube.co.ve
+127.0.0.1 www.youtube.co.za youtube.co.za
+127.0.0.1 www.youtube.co.zw youtube.co.zw
+127.0.0.1 www.youtube.com youtube.com
+127.0.0.1 www.youtube.coar youtube.coar
+127.0.0.1 www.youtube.coau youtube.coau
+127.0.0.1 www.youtube.coaz youtube.coaz
+127.0.0.1 www.youtube.cobd youtube.cobd
+127.0.0.1 www.youtube.cobh youtube.cobh
+127.0.0.1 www.youtube.cobo youtube.cobo
+127.0.0.1 www.youtube.cobr youtube.cobr
+127.0.0.1 www.youtube.coby youtube.coby
+127.0.0.1 www.youtube.coco youtube.coco
+127.0.0.1 www.youtube.codo youtube.codo
+127.0.0.1 www.youtube.coec youtube.coec
+127.0.0.1 www.youtube.coee youtube.coee
+127.0.0.1 www.youtube.coeg youtube.coeg
+127.0.0.1 www.youtube.coes youtube.coes
+127.0.0.1 www.youtube.cogh youtube.cogh
+127.0.0.1 www.youtube.cogr youtube.cogr
+127.0.0.1 www.youtube.cogt youtube.cogt
+127.0.0.1 www.youtube.cohk youtube.cohk
+127.0.0.1 www.youtube.cohn youtube.cohn
+127.0.0.1 www.youtube.cohr youtube.cohr
+127.0.0.1 www.youtube.cojm youtube.cojm
+127.0.0.1 www.youtube.cojo youtube.cojo
+127.0.0.1 www.youtube.cokw youtube.cokw
+127.0.0.1 www.youtube.colb youtube.colb
+127.0.0.1 www.youtube.colv youtube.colv
+127.0.0.1 www.youtube.coly youtube.coly
+127.0.0.1 www.youtube.comk youtube.comk
+127.0.0.1 www.youtube.comt youtube.comt
+127.0.0.1 www.youtube.comx youtube.comx
+127.0.0.1 www.youtube.comy youtube.comy
+127.0.0.1 www.youtube.cong youtube.cong
+127.0.0.1 www.youtube.coni youtube.coni
+127.0.0.1 www.youtube.coom youtube.coom
+127.0.0.1 www.youtube.copa youtube.copa
+127.0.0.1 www.youtube.cope youtube.cope
+127.0.0.1 www.youtube.coph youtube.coph
+127.0.0.1 www.youtube.copk youtube.copk
+127.0.0.1 www.youtube.copt youtube.copt
+127.0.0.1 www.youtube.copy youtube.copy
+127.0.0.1 www.youtube.coqa youtube.coqa
+127.0.0.1 www.youtube.coro youtube.coro
+127.0.0.1 www.youtube.cosa youtube.cosa
+127.0.0.1 www.youtube.cosg youtube.cosg
+127.0.0.1 www.youtube.cosv youtube.cosv
+127.0.0.1 www.youtube.cotn youtube.cotn
+127.0.0.1 www.youtube.cotr youtube.cotr
+127.0.0.1 www.youtube.cotw youtube.cotw
+127.0.0.1 www.youtube.coua youtube.coua
+127.0.0.1 www.youtube.couy youtube.couy
+127.0.0.1 www.youtube.cove youtube.cove
+127.0.0.1 www.youtube.cr youtube.cr
+127.0.0.1 www.youtube.cz youtube.cz
+127.0.0.1 www.youtube.de youtube.de
+127.0.0.1 www.youtube.dk youtube.dk
+127.0.0.1 www.youtube.ee youtube.ee
+127.0.0.1 www.youtube.es youtube.es
+127.0.0.1 www.youtube.fi youtube.fi
+127.0.0.1 www.youtube.fr youtube.fr
+127.0.0.1 www.youtube.ge youtube.ge
+127.0.0.1 www.youtube.gr youtube.gr
+127.0.0.1 www.youtube.gt youtube.gt
+127.0.0.1 www.youtube.hk youtube.hk
+127.0.0.1 www.youtube.hr youtube.hr
+127.0.0.1 www.youtube.hu youtube.hu
+127.0.0.1 www.youtube.ie youtube.ie
+127.0.0.1 www.youtube.in youtube.in
+127.0.0.1 www.youtube.iq youtube.iq
+127.0.0.1 www.youtube.is youtube.is
+127.0.0.1 www.youtube.it youtube.it
+127.0.0.1 www.youtube.jo youtube.jo
+127.0.0.1 www.youtube.jp youtube.jp
+127.0.0.1 www.youtube.kr youtube.kr
+127.0.0.1 www.youtube.kz youtube.kz
+127.0.0.1 www.youtube.lk youtube.lk
+127.0.0.1 www.youtube.lt youtube.lt
+127.0.0.1 www.youtube.lu youtube.lu
+127.0.0.1 www.youtube.lv youtube.lv
+127.0.0.1 www.youtube.ly youtube.ly
+127.0.0.1 www.youtube.ma youtube.ma
+127.0.0.1 www.youtube.me youtube.me
+127.0.0.1 www.youtube.mk youtube.mk
+127.0.0.1 www.youtube.mx youtube.mx
+127.0.0.1 www.youtube.my youtube.my
+127.0.0.1 www.youtube.net.in youtube.net.in
+127.0.0.1 www.youtube.ng youtube.ng
+127.0.0.1 www.youtube.ni youtube.ni
+127.0.0.1 www.youtube.nl youtube.nl
+127.0.0.1 www.youtube.no youtube.no
+127.0.0.1 www.youtube.pa youtube.pa
+127.0.0.1 www.youtube.pe youtube.pe
+127.0.0.1 www.youtube.ph youtube.ph
+127.0.0.1 www.youtube.pk youtube.pk
+127.0.0.1 www.youtube.pl youtube.pl
+127.0.0.1 www.youtube.pr youtube.pr
+127.0.0.1 www.youtube.pt youtube.pt
+127.0.0.1 www.youtube.qa youtube.qa
+127.0.0.1 www.youtube.ro youtube.ro
+127.0.0.1 www.youtube.rs youtube.rs
+127.0.0.1 www.youtube.ru youtube.ru
+127.0.0.1 www.youtube.sa youtube.sa
+127.0.0.1 www.youtube.se youtube.se
+127.0.0.1 www.youtube.sg youtube.sg
+127.0.0.1 www.youtube.si youtube.si
+127.0.0.1 www.youtube.sk youtube.sk
+127.0.0.1 www.youtube.sn youtube.sn
+127.0.0.1 www.youtube.sv youtube.sv
+127.0.0.1 www.youtube.tn youtube.tn
+127.0.0.1 www.youtube.tv youtube.tv
+127.0.0.1 www.youtube.ua youtube.ua
+127.0.0.1 www.youtube.ug youtube.ug
+127.0.0.1 www.youtube.uy youtube.uy
+127.0.0.1 www.youtube.vn youtube.vn
+127.0.0.1 www.youtube.voto youtube.voto
+127.0.0.1 www.m.youtube.ae m.youtube.ae
+127.0.0.1 www.m.youtube.at m.youtube.at
+127.0.0.1 www.m.youtube.az m.youtube.az
+127.0.0.1 www.m.youtube.ba m.youtube.ba
+127.0.0.1 www.m.youtube.be m.youtube.be
+127.0.0.1 www.m.youtube.bg m.youtube.bg
+127.0.0.1 www.m.youtube.bh m.youtube.bh
+127.0.0.1 www.m.youtube.bo m.youtube.bo
+127.0.0.1 www.m.youtube.by m.youtube.by
+127.0.0.1 www.m.youtube.ca m.youtube.ca
+127.0.0.1 www.m.youtube.cat m.youtube.cat
+127.0.0.1 www.m.youtube.ch m.youtube.ch
+127.0.0.1 www.m.youtube.cl m.youtube.cl
+127.0.0.1 www.m.youtube.co m.youtube.co
+127.0.0.1 www.m.youtube.co.ae m.youtube.co.ae
+127.0.0.1 www.m.youtube.co.at m.youtube.co.at
+127.0.0.1 www.m.youtube.co.cr m.youtube.co.cr
+127.0.0.1 www.m.youtube.co.hu m.youtube.co.hu
+127.0.0.1 www.m.youtube.co.id m.youtube.co.id
+127.0.0.1 www.m.youtube.co.il m.youtube.co.il
+127.0.0.1 www.m.youtube.co.in m.youtube.co.in
+127.0.0.1 www.m.youtube.co.jp m.youtube.co.jp
+127.0.0.1 www.m.youtube.co.ke m.youtube.co.ke
+127.0.0.1 www.m.youtube.co.kr m.youtube.co.kr
+127.0.0.1 www.m.youtube.co.ma m.youtube.co.ma
+127.0.0.1 www.m.youtube.co.nz m.youtube.co.nz
+127.0.0.1 www.m.youtube.co.th m.youtube.co.th
+127.0.0.1 www.m.youtube.co.tz m.youtube.co.tz
+127.0.0.1 www.m.youtube.co.ug m.youtube.co.ug
+127.0.0.1 www.m.youtube.co.uk m.youtube.co.uk
+127.0.0.1 www.m.youtube.co.ve m.youtube.co.ve
+127.0.0.1 www.m.youtube.co.za m.youtube.co.za
+127.0.0.1 www.m.youtube.co.zw m.youtube.co.zw
+127.0.0.1 www.m.youtube.com m.youtube.com
+127.0.0.1 www.m.youtube.com.ar m.youtube.com.ar
+127.0.0.1 www.m.youtube.com.au m.youtube.com.au
+127.0.0.1 www.m.youtube.com.az m.youtube.com.az
+127.0.0.1 www.m.youtube.com.bd m.youtube.com.bd
+127.0.0.1 www.m.youtube.com.bh m.youtube.com.bh
+127.0.0.1 www.m.youtube.com.bo m.youtube.com.bo
+127.0.0.1 www.m.youtube.com.br m.youtube.com.br
+127.0.0.1 www.m.youtube.com.by m.youtube.com.by
+127.0.0.1 www.m.youtube.com.co m.youtube.com.co
+127.0.0.1 www.m.youtube.com.do m.youtube.com.do
+127.0.0.1 www.m.youtube.com.ec m.youtube.com.ec
+127.0.0.1 www.m.youtube.com.ee m.youtube.com.ee
+127.0.0.1 www.m.youtube.com.eg m.youtube.com.eg
+127.0.0.1 www.m.youtube.com.es m.youtube.com.es
+127.0.0.1 www.m.youtube.com.gh m.youtube.com.gh
+127.0.0.1 www.m.youtube.com.gr m.youtube.com.gr
+127.0.0.1 www.m.youtube.com.gt m.youtube.com.gt
+127.0.0.1 www.m.youtube.com.hk m.youtube.com.hk
+127.0.0.1 www.m.youtube.com.hn m.youtube.com.hn
+127.0.0.1 www.m.youtube.com.hr m.youtube.com.hr
+127.0.0.1 www.m.youtube.com.jm m.youtube.com.jm
+127.0.0.1 www.m.youtube.com.jo m.youtube.com.jo
+127.0.0.1 www.m.youtube.com.kw m.youtube.com.kw
+127.0.0.1 www.m.youtube.com.lb m.youtube.com.lb
+127.0.0.1 www.m.youtube.com.lv m.youtube.com.lv
+127.0.0.1 www.m.youtube.com.ly m.youtube.com.ly
+127.0.0.1 www.m.youtube.com.mk m.youtube.com.mk
+127.0.0.1 www.m.youtube.com.mt m.youtube.com.mt
+127.0.0.1 www.m.youtube.com.mx m.youtube.com.mx
+127.0.0.1 www.m.youtube.com.my m.youtube.com.my
+127.0.0.1 www.m.youtube.com.ng m.youtube.com.ng
+127.0.0.1 www.m.youtube.com.ni m.youtube.com.ni
+127.0.0.1 www.m.youtube.com.om m.youtube.com.om
+127.0.0.1 www.m.youtube.com.pa m.youtube.com.pa
+127.0.0.1 www.m.youtube.com.pe m.youtube.com.pe
+127.0.0.1 www.m.youtube.com.ph m.youtube.com.ph
+127.0.0.1 www.m.youtube.com.pk m.youtube.com.pk
+127.0.0.1 www.m.youtube.com.pt m.youtube.com.pt
+127.0.0.1 www.m.youtube.com.py m.youtube.com.py
+127.0.0.1 www.m.youtube.com.qa m.youtube.com.qa
+127.0.0.1 www.m.youtube.com.ro m.youtube.com.ro
+127.0.0.1 www.m.youtube.com.sa m.youtube.com.sa
+127.0.0.1 www.m.youtube.com.sg m.youtube.com.sg
+127.0.0.1 www.m.youtube.com.sv m.youtube.com.sv
+127.0.0.1 www.m.youtube.com.tn m.youtube.com.tn
+127.0.0.1 www.m.youtube.com.tr m.youtube.com.tr
+127.0.0.1 www.m.youtube.com.tw m.youtube.com.tw
+127.0.0.1 www.m.youtube.com.ua m.youtube.com.ua
+127.0.0.1 www.m.youtube.com.uy m.youtube.com.uy
+127.0.0.1 www.m.youtube.com.ve m.youtube.com.ve
+127.0.0.1 www.m.youtube.cr m.youtube.cr
+127.0.0.1 www.m.youtube.cz m.youtube.cz
+127.0.0.1 www.m.youtube.de m.youtube.de
+127.0.0.1 www.m.youtube.dk m.youtube.dk
+127.0.0.1 www.m.youtube.ee m.youtube.ee
+127.0.0.1 www.m.youtube.es m.youtube.es
+127.0.0.1 www.m.youtube.fi m.youtube.fi
+127.0.0.1 www.m.youtube.fr m.youtube.fr
+127.0.0.1 www.m.youtube.ge m.youtube.ge
+127.0.0.1 www.m.youtube.gr m.youtube.gr
+127.0.0.1 www.m.youtube.gt m.youtube.gt
+127.0.0.1 www.m.youtube.hk m.youtube.hk
+127.0.0.1 www.m.youtube.hr m.youtube.hr
+127.0.0.1 www.m.youtube.hu m.youtube.hu
+127.0.0.1 www.m.youtube.ie m.youtube.ie
+127.0.0.1 www.m.youtube.in m.youtube.in
+127.0.0.1 www.m.youtube.iq m.youtube.iq
+127.0.0.1 www.m.youtube.is m.youtube.is
+127.0.0.1 www.m.youtube.it m.youtube.it
+127.0.0.1 www.m.youtube.jo m.youtube.jo
+127.0.0.1 www.m.youtube.jp m.youtube.jp
+127.0.0.1 www.m.youtube.kr m.youtube.kr
+127.0.0.1 www.m.youtube.kz m.youtube.kz
+127.0.0.1 www.m.youtube.lk m.youtube.lk
+127.0.0.1 www.m.youtube.lt m.youtube.lt
+127.0.0.1 www.m.youtube.lu m.youtube.lu
+127.0.0.1 www.m.youtube.lv m.youtube.lv
+127.0.0.1 www.m.youtube.ly m.youtube.ly
+127.0.0.1 www.m.youtube.ma m.youtube.ma
+127.0.0.1 www.m.youtube.me m.youtube.me
+127.0.0.1 www.m.youtube.mk m.youtube.mk
+127.0.0.1 www.m.youtube.mx m.youtube.mx
+127.0.0.1 www.m.youtube.my m.youtube.my
+127.0.0.1 www.m.youtube.net.in m.youtube.net.in
+127.0.0.1 www.m.youtube.ng m.youtube.ng
+127.0.0.1 www.m.youtube.ni m.youtube.ni
+127.0.0.1 www.m.youtube.nl m.youtube.nl
+127.0.0.1 www.m.youtube.no m.youtube.no
+127.0.0.1 www.m.youtube.pa m.youtube.pa
+127.0.0.1 www.m.youtube.pe m.youtube.pe
+127.0.0.1 www.m.youtube.ph m.youtube.ph
+127.0.0.1 www.m.youtube.pk m.youtube.pk
+127.0.0.1 www.m.youtube.pl m.youtube.pl
+127.0.0.1 www.m.youtube.pr m.youtube.pr
+127.0.0.1 www.m.youtube.pt m.youtube.pt
+127.0.0.1 www.m.youtube.qa m.youtube.qa
+127.0.0.1 www.m.youtube.ro m.youtube.ro
+127.0.0.1 www.m.youtube.rs m.youtube.rs
+127.0.0.1 www.m.youtube.ru m.youtube.ru
+127.0.0.1 www.m.youtube.sa m.youtube.sa
+127.0.0.1 www.m.youtube.se m.youtube.se
+127.0.0.1 www.m.youtube.sg m.youtube.sg
+127.0.0.1 www.m.youtube.si m.youtube.si
+127.0.0.1 www.m.youtube.sk m.youtube.sk
+127.0.0.1 www.m.youtube.sn m.youtube.sn
+127.0.0.1 www.m.youtube.sv m.youtube.sv
+127.0.0.1 www.m.youtube.tn m.youtube.tn
+127.0.0.1 www.m.youtube.tv m.youtube.tv
+127.0.0.1 www.m.youtube.ua m.youtube.ua
+127.0.0.1 www.m.youtube.ug m.youtube.ug
+127.0.0.1 www.m.youtube.uy m.youtube.uy
+127.0.0.1 www.m.youtube.vn m.youtube.vn
+127.0.0.1 www.m.youtube.voto m.youtube.voto
